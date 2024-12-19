@@ -10,7 +10,7 @@ import WatchLaterIcon from "@mui/icons-material/WatchLater";
 import ThumbUpIcon from "@mui/icons-material/ThumbUp";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 
-import "./Sidebar.css";
+import "./SideBar.css";
 
 export default function SideBar() {
   return (
